@@ -71,7 +71,7 @@ public class Student {
     }
     public int getRanking()
     {
-
+        return 0;
     }
 }
 
